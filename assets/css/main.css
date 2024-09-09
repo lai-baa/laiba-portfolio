@@ -24,11 +24,11 @@
   max-width: 30%;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   transition: transform 0.2s;
-}
+} */
 
 .feature-item:hover {
   transform: scale(1.05);
-} */
+}
 
 
 html, body, div, span, applet, object,
